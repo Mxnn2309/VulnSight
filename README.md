@@ -1,5 +1,9 @@
 # 👁️ VulnSight: Context-Aware Recon & Remediation 
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
+
 **VulnSight** is a cybersecurity tool designed to find and fix security weaknesses (vulnerabilities) in websites before hackers can exploit them. Think of it as a digital health check-up for a website that not only finds the *"illness"* but also writes the exact *"prescription"* to cure it.
 
 ## Core Features of VulnSight
