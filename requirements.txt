@@ -1,0 +1,16 @@
+flask
+flask-login
+pandas
+matplotlib
+scikit-learn
+xgboost
+fpdf2
+python-nmap
+requests
+beautifulsoup4
+litellm
+python-dotenv
+python-whois
+dnspython
+pyOpenSSL
+numpy
